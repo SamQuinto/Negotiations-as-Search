@@ -20,3 +20,5 @@ This repo contains three notebooks that build on each other:
 - Step 1 is optional if you already have scenarios – just place them into `S1_OUTPUT/` and `S1_OUTPUT/random_raw/`.
 - Step 2 reads from Step 1 outputs.  
 - Step 3 reads from Step 2 outputs.
+
+

@@ -1,0 +1,22 @@
+issue,option,Env League,Federal DCR,Governor,Harborco,Other Ports,Union
+Industry Mix,primarily dirty,0,0,14,14,0,15
+Industry Mix,clean/dirty,22,11,8,8,4,20
+Industry Mix,all clean,45,5,0,0,10,0
+Ecological Impact,harm,0,0,12,11,0,0
+Ecological Impact,maintain & repair,25,20,8,7,0,0
+Ecological Impact,improve,55,25,0,0,0,0
+Employment Rules/Distribution,unlimited union preference,0,0,24,0,12,42
+Employment Rules/Distribution,union quota 2:1,0,2,18,5,8,35
+Employment Rules/Distribution,union quota 1:1,0,4,12,10,6,25
+Employment Rules/Distribution,no union preference,0,9,0,17,0,0
+Federal Loan,$3 billion,0,10,40,35,0,30
+Federal Loan,$2 billion,0,26,30,29,8,20
+Federal Loan,$1 billion,0,40,23,20,13,10
+Federal Loan,no federal loan,0,0,0,0,18,0
+Compensation to Other Ports,Harborco pays $600 million,0,4,0,0,60,2
+Compensation to Other Ports,Harborco pays $450 million,0,8,2,5,45,4
+Compensation to Other Ports,Harborco pays $300 million,0,15,4,10,30,6
+Compensation to Other Ports,Harborco pays $150 million,0,12,7,15,15,8
+Compensation to Other Ports,Harborco pays no compensation,0,0,10,23,0,0
+reservation,Reservation Price,50,65,30,55,31,50
+target,Target Price,100,100,100,100,100,100

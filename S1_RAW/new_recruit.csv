@@ -1,0 +1,33 @@
+issue,option,Recruiter,Candidate
+Bonus,10%,0,4000
+Bonus,8%,400,3000
+Bonus,6%,800,2000
+Bonus,4%,1200,1000
+Bonus,2%,1600,0
+Vacation Time,25 days,0,1600
+Vacation Time,20 days,1000,1200
+Vacation Time,15 days,2000,800
+Vacation Time,10 days,3000,400
+Vacation Time,5 days,4000,0
+Starting Date,1-Jun,0,2400
+Starting Date,15-Jun,600,1800
+Starting Date,1-Jul,1200,1200
+Starting Date,15-Jul,1800,600
+Starting Date,1-Aug,2400,0
+Moving Expenses Coverage,100%,0,3200
+Moving Expenses Coverage,90%,200,2400
+Moving Expenses Coverage,80%,400,1600
+Moving Expenses Coverage,70%,600,800
+Moving Expenses Coverage,60%,800,0
+Insurance Coverage,Plan A,0,800
+Insurance Coverage,Plan B,800,600
+Insurance Coverage,Plan C,1600,400
+Insurance Coverage,Plan D,2400,200
+Insurance Coverage,Plan E,3200,0
+Salary,"$90,000 ",-6000,0
+Salary,"$88,000 ",-3000,-3000
+Salary,"$86,000 ",-1200,-1200
+Salary,"$84,000 ",-900,-900
+Salary,"$82,000 ",-600,-600
+reservation price,N/A,4500,4500
+target price,N/A,N/A,N/A

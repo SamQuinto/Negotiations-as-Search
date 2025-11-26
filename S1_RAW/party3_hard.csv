@@ -1,0 +1,19 @@
+issue,option,Party A,Party B,Party C
+Issue_1,on,1.3455,-2.1758,2.1294
+Issue_1,off,0,0,0
+Issue_2,on,1.1385,1.8216,-2.366
+Issue_2,off,0,0,0
+Issue_3,on,-1.0143,-1.6192,0.9802
+Issue_3,off,0,0,0
+Issue_4,on,0.7866,-1.2903,1.4872
+Issue_4,off,0,0,0
+Issue_5,on,-0.5175,-1.6445,1.859
+Issue_5,off,0,0,0
+Issue_6,on,-0.0414,0.2024,-0.4732
+Issue_6,off,0,0,0
+Issue_7,on,-1.2627,2.024,-0.169
+Issue_7,off,0,0,0
+Issue_8,on,1.2834,-1.3409,2.6702
+Issue_8,off,0,0,0
+reservation,N/A,0,0,0
+target,N/A,2,2,2
